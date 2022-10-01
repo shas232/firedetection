@@ -1,0 +1,4 @@
+#LWP-Cookies-2.0
+Set-Cookie3: 1P_JAR="2022-10-01-05"; path="/"; domain=".google.com"; path_spec; domain_dot; secure; expires="2022-10-31 05:49:53Z"; version=0
+Set-Cookie3: AEC=AakniGOQwl1PHA_GwJ6roaNoUiLVnawloxXnI1wrNyI4OIe635bt9fHW_w; path="/"; domain=".google.com"; path_spec; domain_dot; secure; expires="2023-03-30 05:49:49Z"; HttpOnly=None; SameSite=lax; version=0
+Set-Cookie3: NID="511=oOCh-STGNN6uw3qpFCKCEJnizwbeYY7ehCnxw2Hv93--sdLf91KXqhpGz9xLnmcc4utaOkapiii3ZIUTztPsDAffhW9gRAJrNcSH8JTn9RY1r7Z48r-Ih5z0AR3VSKdpCdtsxj-LfiQl4zzUvhxB3MMHhdYC1LmK2WdzSqaM7gs"; path="/"; domain=".google.com"; path_spec; domain_dot; expires="2023-04-02 05:49:53Z"; HttpOnly=None; version=0
